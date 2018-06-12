@@ -1,0 +1,23 @@
+{
+  "name": "alexa-random-realm-royale",
+  "version": "1.0.0",
+  "description": "random realm royale stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doobix/alexa-random-realm-royale.git"
+  },
+  "author": "doobix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doobix/alexa-random-realm-royale/issues"
+  },
+  "homepage": "https://github.com/doobix/alexa-random-realm-royale#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "see-realm-royale": "0.0.1"
+  }
+}
